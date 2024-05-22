@@ -12,5 +12,6 @@ $age = 15;
 </head>
 <body>
     Halo, nama saya adalah <?php echo $name; ?> dan umur saya adalah <?php echo $age; ?> tahun.
+    <!-- coba tolong revisi -->
 </body>
 </html>
